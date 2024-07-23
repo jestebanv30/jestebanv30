@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Juan Esteban and I'm a web developer, from <img src="assets/colombia.png" width="17" /> <b>Valledupar <img src="assets/vallenato.png" width="17" />, Colombia</b>. </p>
+<p> My name is Juan Esteban and I'm a web developer, from <b>Valledupar <img src="assets/vallenato.png" width="17" />, Colombia <img src="assets/colombia.png" width="17" /></b>. </p>
 
 ## About me
 
