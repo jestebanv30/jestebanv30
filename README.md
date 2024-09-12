@@ -5,10 +5,10 @@
 
 ## About me
 
-- ✨ Creating bugs since 2022
-- 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" style="vertical-align: middle; margin-left: 5px;" /> and Docker <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="17" style="vertical-align: middle; margin-left: 5px;" />
-- 🎯 Goals: Speak English 🚀
-- 🎲 And... I play <img src="assets/vallenato.png" width="17" style="vertical-align: middle; margin-left: 5px;" /> Vallenato accordion
+- ✨ Creating bugs since 2022.
+- 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" style="vertical-align: middle; margin-left: 5px;" /> and Docker <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="17" style="vertical-align: middle; margin-left: 5px;" />.
+- 🎯 Goals: Speak English 🚀.
+- 🎲 And... I play <img src="assets/vallenato.png" width="17" style="vertical-align: middle; margin-left: 5px;" /> Vallenato accordion.
 
 ## I code with
 
