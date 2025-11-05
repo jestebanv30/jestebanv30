@@ -5,6 +5,6 @@
 
 ## About me
 
-- ✨ Creating bugs since 2022.
+- ✨ Creating bugs since 2022
 
 ###
