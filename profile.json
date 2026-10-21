@@ -1,0 +1,128 @@
+{
+  "_comment": "Content for the profile SVGs. Edit, then run `python scripts/build.py` (or push and let the workflow do it).",
+  "username": "jestebanv30",
+  "name": "Juan Esteban Valdés",
+  "monogram": "JV",
+  "greeting": "¡HOLA, MUNDO! I'M",
+  "roles": [
+    "Fullstack Developer",
+    "Backend APIs with FastAPI & Spring Boot",
+    "Modern UIs with Angular, React & Next.js",
+    "Data & computer vision with Python",
+    "Clean code enthusiast"
+  ],
+  "chips": [
+    { "icon": "pulse", "text": "Open to work" },
+    { "icon": "flag", "text": "Valledupar, Colombia" },
+    { "icon": "code", "text": "Coding since 2022" }
+  ],
+  "orbit": {
+    "inner": ["python", "ts", "angular", "react"],
+    "outer": ["fastapi", "spring", "nextjs", "flutter", "postgres", "java"]
+  },
+  "about": {
+    "file": "about_me.py",
+    "code": [
+      "from colombia.valledupar import Developer",
+      "",
+      "class JuanEsteban(Developer):",
+      "    \"\"\"Fullstack developer who loves clean code.\"\"\"",
+      "",
+      "    role      = \"Fullstack Developer\"",
+      "    based_in  = \"Valledupar, Colombia\"",
+      "    languages = [\"Python\", \"TypeScript\", \"Java\", \"Dart\"]",
+      "    backend   = [\"FastAPI\", \"Spring Boot\", \"Node.js\", \"Flask\"]",
+      "    frontend  = [\"Angular\", \"React\", \"Next.js\", \"Tailwind\"]",
+      "    data_ai   = [\"Pandas\", \"scikit-learn\", \"OpenCV\", \"LLM APIs\"]",
+      "    practices = [\"Clean Code\", \"Hexagonal Arch\", \"Testing\"]",
+      "",
+      "    def currently(self) -> str:",
+      "        return \"Building data & AI-powered web apps\"",
+      "",
+      "me = JuanEsteban()  # creating (and fixing) bugs since 2022"
+    ]
+  },
+  "stack": [
+    {
+      "title": "Languages",
+      "color": "a1",
+      "items": [["python", "Python"], ["ts", "TypeScript"], ["js", "JavaScript"], ["java", "Java"], ["dart", "Dart"], ["cs", "C#"]]
+    },
+    {
+      "title": "Frontend & Mobile",
+      "color": "a2",
+      "items": [["angular", "Angular"], ["react", "React"], ["nextjs", "Next.js"], ["tailwind", "Tailwind"], ["threejs", "Three.js"], ["flutter", "Flutter"]]
+    },
+    {
+      "title": "Backend",
+      "color": "a3",
+      "items": [["fastapi", "FastAPI"], ["spring", "Spring Boot"], ["nodejs", "Node.js"], ["express", "Express"], ["flask", "Flask"]]
+    },
+    {
+      "title": "Data & AI",
+      "color": "gold",
+      "items": [["pandas", "Pandas"], ["numpy", "NumPy"], ["sklearn", "scikit-learn"], ["opencv", "OpenCV"], ["plotly", "Plotly"]]
+    },
+    {
+      "title": "Databases & Cloud",
+      "color": "green",
+      "items": [["postgres", "PostgreSQL"], ["mongodb", "MongoDB"], ["firebase", "Firebase"], ["azure", "Azure"], ["vercel", "Vercel"]]
+    },
+    {
+      "title": "Tools & Testing",
+      "color": "rose",
+      "items": [["git", "Git"], ["github", "GitHub"], ["postman", "Postman"], ["pytest", "Pytest"], ["vscode", "VS Code"]]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "space-explorer",
+      "repo": "space-web-frontend",
+      "title": "Space Explorer",
+      "description": "Immersive 3D web experience to explore space missions, astronauts and spacecraft, backed by a FastAPI + Firebase API.",
+      "tags": [["React", "#61DAFB"], ["Three.js", "text"], ["GSAP", "#88CE02"], ["FastAPI", "#009688"], ["Firebase", "#FFCA28"]],
+      "demo": "https://space-web-frontend.vercel.app",
+      "art": "planet",
+      "color": "a2"
+    },
+    {
+      "slug": "omr-dashboard",
+      "repo": "omr-dashboard",
+      "title": "OMR Dashboard",
+      "description": "Optical mark recognition: reads filled answer sheets with OpenCV and manages students and results in a real-time dashboard.",
+      "tags": [["Next.js", "text"], ["TypeScript", "#3178C6"], ["OpenCV", "#5C3EE8"], ["Firebase", "#FFCA28"], ["Recharts", "#22B5BF"]],
+      "demo": "https://omr-dashboard.vercel.app",
+      "art": "scan",
+      "color": "a1"
+    },
+    {
+      "slug": "upc-analytics",
+      "repo": "hackathon-backend",
+      "title": "UPC Academic Analytics API",
+      "description": "Hackathon API that analyzes Saber Pro results of Universidad Popular del Cesar: gaps, trends, predictions and AI insights.",
+      "tags": [["FastAPI", "#009688"], ["Pandas", "#E70488"], ["scikit-learn", "#F7931E"], ["Cohere", "#D18EE2"]],
+      "demo": "",
+      "badge": "HACKATHON",
+      "art": "bars",
+      "color": "gold"
+    },
+    {
+      "slug": "car-dealership",
+      "repo": "concesionario-coches-spring",
+      "title": "Car Dealership Platform",
+      "description": "Inventory platform built with hexagonal architecture, JWT security and PostgreSQL on Azure, plus an Angular SPA.",
+      "tags": [["Spring Boot", "#6DB33F"], ["Java 17", "#F89820"], ["PostgreSQL", "#4169E1"], ["Azure", "#0089D6"], ["Angular", "#DD0031"]],
+      "demo": "https://concesionario-coches-front.vercel.app",
+      "art": "hexagon",
+      "color": "a3"
+    }
+  ],
+  "footer": {
+    "title": "Thanks for stopping by!",
+    "subtitle": "Let's build something great together."
+  },
+  "stats": {
+    "exclude_languages": ["Jupyter Notebook", "C++", "CMake", "C", "Swift", "Objective-C", "Kotlin", "Batchfile", "Shell", "PowerShell", "Dockerfile", "Procfile", "Makefile"],
+    "max_languages": 6
+  }
+}
